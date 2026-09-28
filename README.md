@@ -55,6 +55,13 @@
   [![Python](https://skillicons.dev/icons?i=rust)](https://rust-lang.org/)
   [![Python](https://skillicons.dev/icons?i=go)](https://go.dev/)
   [![Python](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
+  ### AI & Data
+  [![Python](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
+  [![Python](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
+  [![Python](https://skillicons.dev/icons?i=scikitlearn)](https://scikit-learn.org/stable/)
+  [![Python](https://skillicons.dev/icons?i=opencv)](https://opencv.org/)
+  [![Python](https://skillicons.dev/icons?i=numpy)](https://numpy.org/)
+  [![Python](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org/)
   ### Frontend
   [![Python](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/Html/)
   [![Python](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
@@ -70,6 +77,18 @@
   [![Python](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
   [![Python](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
   [![Python](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
-  
+  ### Database
+  [![Python](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+  [![Python](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+  [![Python](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+  [![Python](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
+  [![Python](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+  ### DevOps & Tools
+  [![Python](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+  [![Python](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+  [![Python](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+  [![Python](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+  [![Python](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+  [![Python](https://skillicons.dev/icons?i=github)](https://github.com/)
 
 </div>
