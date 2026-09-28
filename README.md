@@ -50,6 +50,12 @@
   [![Python](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
   [![Python](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
   [![Python](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+  ### Backend
+  [![Python](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+  [![Python](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+  [![Python](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+  [![Python](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+  [![Python](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
   
 
 </div>
