@@ -60,8 +60,6 @@
   [![Python](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
   [![Python](https://skillicons.dev/icons?i=scikitlearn)](https://scikit-learn.org/stable/)
   [![Python](https://skillicons.dev/icons?i=opencv)](https://opencv.org/)
-  [![Python](https://skillicons.dev/icons?i=numpy)](https://numpy.org/)
-  [![Python](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org/)
   ### Frontend
   [![Python](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/Html/)
   [![Python](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
