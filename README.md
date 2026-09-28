@@ -1,4 +1,4 @@
-# Hi there, I'm SM Atiqur Rahman Limon 👋
+# Hi there, I'm SM Atiqur Rahman Limon  👋
 
 🎓 **Student** | 💻 **Full-Stack & Mobile App Developer** | 🤖 **ML Expert & AI Researcher**
 
@@ -27,11 +27,13 @@
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=scienceandtechnologylab_USERNAME&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scienceandtechnologylab_USERNAME&layout=compact&theme=radial)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=scienceandtechnologylab&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scienceandtechnologylab&layout=compact&theme=radial)
 
 ---
 
 ### 📫 Connect with Me
 - ✉️ Email: scienceandtechnologylab24@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/md-atiqur-rahman-limon-42a568320
+
+--- 
