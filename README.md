@@ -43,6 +43,9 @@
 
   <h2>🛠️ Tech Stack</h2>
 
+  <h3>Frontend</h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" alt="html" width="50" height="50"/>
+
   <h3>Backend</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
