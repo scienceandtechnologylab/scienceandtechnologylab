@@ -27,8 +27,8 @@
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=scienceandtechnologylab&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scienceandtechnologylab&layout=compact&theme=radial)
+![Your GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=scienceandtechnologylab&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=scienceandtechnologylab&layout=compact&theme=radial)
 
 ---
 
