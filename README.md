@@ -43,11 +43,25 @@
 
   ## 🛠️ Tech Stack
 
-  ### Frontend
-  [![Python](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/default.asp)
-  [![Python](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
+  ### Languages
   [![Python](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/js/)
   [![Python](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+  [![Python](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
+  [![Python](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
+  [![Python](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+  [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+  [![Python](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/)
+  [![Python](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/c_intro.php)
+  [![Python](https://skillicons.dev/icons?i=rust)](https://rust-lang.org/)
+  [![Python](https://skillicons.dev/icons?i=go)](https://go.dev/)
+  [![Python](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
+  ### Frontend
+  [![Python](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/Html/)
+  [![Python](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
+  [![Python](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
+  [![Python](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+  [![Python](https://skillicons.dev/icons?i=react)](https://react.dev/)
+  [![Python](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
   [![Python](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
   [![Python](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
   ### Backend
